@@ -1,0 +1,15 @@
+{
+  "name":         "LZO",
+  "version":      "0.1",
+  "description":  "The LZO object can be used to compress and uncompress data using the Lempel-Ziv-Oberhumer (LZO) lossless data compression algorithm.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["LZO"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  ["minilzo.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
